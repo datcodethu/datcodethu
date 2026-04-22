@@ -17,9 +17,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=datcodethu&layout=compact" />
-</p>
