@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Dat</h1>
-<h3 align="center">Java Backend / Fullstack Developer</h3>
+# Dat — Java Backend / Fullstack Developer
 
-- 🎓 IT student at Dong A University  
-- 💻 Focus on Java Backend, System Design & Security  
-- 🌱 Currently learning Spring Boot, High-Concurrency & AI integration  
+IT student at Dong A University, focused on Java Backend, system design, and security. Currently studying Spring Boot, high-concurrency systems, and AI integration.
 
----
+## Tech Stack
 
-<h3 align="left">Tech Stack:</h3>
+Java · Spring Boot · React · Docker · Linux · MySQL · MongoDB
+
+## Tech Stack (icons)
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="32"/>
 </p>
