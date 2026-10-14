@@ -1,6 +1,6 @@
 # Dat — Java Backend / Fullstack Developer
 
-IT student at Dong A University, focused on Java Backend, system design, and security. Currently studying Spring Boot, high-concurrency systems, and AI integration.
+IT student, focused on Java Backend, system design, and security. Currently studying Spring Boot, high-concurrency systems, and AI integration.
 
 ## Tech Stack
 
